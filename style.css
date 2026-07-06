@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(rgb(64, 64, 128), rgb(16, 16, 32));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(200, 200, 255);
+}
+
+h2 {
+    font-size: 34px;
+    color: rgb(200, 200, 255);
+}
+
+.center_img {
+    display: block;
+    margin: 0 auto;
+}
+
+.center_text {
+    text-align: center;
+}
