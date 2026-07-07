@@ -11,7 +11,7 @@ monthLength = [
     28, //octubre
     28, //noviembre
     28, //diciembre
-    1   //???
+    1   //undiciembre
                 ];
 
 let month4YearExtra = [
@@ -27,7 +27,7 @@ let month4YearExtra = [
     0, //octubre
     0, //noviembre
     0, //diciembre
-    1  //???
+    1  //undiciembre
                 ];
 
 let monthName = [
@@ -43,7 +43,7 @@ let monthName = [
     "octubre",
     "noviembre",
     "diciembre",
-    "???"
+    "undiciembre"
                 ];
 
 const silksongReleaseDate = new Date("2025-9-4");
